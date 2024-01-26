@@ -1,4 +1,6 @@
-s script displays information about the file `school`
+
+#!/usr/bin/env bash
+# This script displays information about the file `school`
 
 if [ -e "school" ]
 then

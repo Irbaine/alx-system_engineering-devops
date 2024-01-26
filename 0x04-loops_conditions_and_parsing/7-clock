@@ -1,4 +1,6 @@
-splays the time for 12 hours and 59 minutes
+
+#!/usr/bin/env bash
+# Displays the time for 12 hours and 59 minutes
 hour=0
 
 while [ $hour -le 12 ]

@@ -1,4 +1,6 @@
-ys the content of the current directory in a certain format
+
+#!/usr/bin/env bash
+# displays the content of the current directory in a certain format
 
 list=$(ls)
 for file in $list

@@ -1,4 +1,6 @@
-s script prints "Best school" 10 times, and "hi" on the 9th iteration
+
+#!/usr/bin/env bash
+# This script prints "Best school" 10 times, and "hi" on the 9th iteration
 n=1
 
 while [ $n -le 10 ]
