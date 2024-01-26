@@ -1,4 +1,5 @@
-s script is used for FizzBuzz game
+#!/usr/bin/env bash
+# This script is used for FizzBuzz game
 
 for num in {1..100}
 do
